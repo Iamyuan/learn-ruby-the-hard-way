@@ -122,7 +122,7 @@ puts "%f" %[ my_age+my_height]
 
 
 =begin
-[EX5]
+[EX6]
 true or false like a string
 =end
 puts "======START======="
@@ -237,6 +237,12 @@ puts tabby_cat
 puts persian_cat
 puts backslash_cat
 puts fat_cat
+
+
+
+
+
+
 
 
 
