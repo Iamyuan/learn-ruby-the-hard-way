@@ -1,3 +1,9 @@
+#%d integer
+#%f float point
+#%s string
+
+#puts "Let's talk about %s." % my_name
+#puts "Let's talk about #{my_name}." is the same
 my_name = "Tina Hsu" #define a string
 my_age = 25    #define a integer
 my_height = 162.3 #define a float point

@@ -1,3 +1,4 @@
+#true or false like a string
 x = "There are #{10} types of people."
 binary = "binary"
 do_not = "don't"
