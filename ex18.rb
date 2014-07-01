@@ -19,6 +19,12 @@ def puts_none()
   puts "I got nothin'."
 end
 
+def puts_words(*abab)
+	a, b = abab
+    puts "I love not only #{a}, but also #{b}" 
+end
+
+puts_words("father", "mother")
 puts_two("Zed","Shaw")
 puts_two_again("Zed","Shaw")
 puts_one("First!")

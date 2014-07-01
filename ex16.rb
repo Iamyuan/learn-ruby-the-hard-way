@@ -6,7 +6,7 @@ puts "If you don't want that, hit CTRL-C (^C)."
 puts "If you do want that, hit RETURN."
 
 print "? "
-STDIN.gets
+
 
 puts "Opening the file..."
 target = File.open(filename, 'w')
